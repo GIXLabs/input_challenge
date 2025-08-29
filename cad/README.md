@@ -17,7 +17,7 @@
     
     1. Greyed out parts are ones outside the Glowforge's cuttable area and will need to be moved onto the material.
 
-1. Add [button holes (copy and paste to get multiple)](button_hole.svg), [potentiometer hole](potentiometer_hole.svg), and [micro-USB hole](usb_hole.svg). There is a download symbol on each of these pages that you'll need to use.
+1. Add [button holes (copy and paste to get multiple)](button_hole.svg), [potentiometer hole](potentiometer_hole.svg), and [micro-USB hole](usb_hole.svg). There is a download symbol on each of these pages that you'll need to use. You may also want this [rectangle](rect.svg) and [circle](circle.svg) file, which you can stretch and resize in the Glowforge interface.
 
     ![Image of Glowforge interface](/assets/glowforge_add.svg)
 
